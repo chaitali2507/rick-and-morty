@@ -1,0 +1,17 @@
+.body{
+    background-color: #272B33;
+    color: white;
+}
+.bad{
+    top: 10px;
+    right: 20px;
+    font-size: 17px;
+}
+.cards{
+    /* border: 2px solid #0b5ed7; */
+    border-radius: 10px;
+    background-color: #3C3E44;
+}
+.img{
+    border-radius: 10px 10px 0 0;
+}
